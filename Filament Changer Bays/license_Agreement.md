@@ -2,7 +2,7 @@
 # Custom Non-Commercial License Agreement
 
 
-This work is licensed under CC BY-NC-SA 4.0 [Attribution-NonCommercial-ShareAlike 4.0 International] but uses this as the base. Please refer to the CC BY-NC-SA only as a guideline to what is acceptable usage of this licensed work.
+This work is not licensed under CC BY-NC-SA 4.0 [Attribution-NonCommercial-ShareAlike 4.0 International] but uses this as the base. Please refer to the CC BY-NC-SA only as a guideline to what is acceptable usage of this licensed work.
 
 ## 1. Introduction
 
